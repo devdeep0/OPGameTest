@@ -1,0 +1,2 @@
+*OPTesting.data filter=lfs diff=lfs merge=lfs -text
+*OpTesting.wasm filter=lfs diff=lfs merge=lfs -text
